@@ -1,0 +1,7 @@
+<?php
+
+   echo "Hi , I am Andrej ";
+   echo "<br>";
+   echo "This is mx first project on github";
+
+?>
